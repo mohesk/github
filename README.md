@@ -46,6 +46,6 @@ cd <projectName>
 ```sh
 git reset --hard <commit-id>
 git log
-git push <branch name>
-git push <branch name> -f  ///in case it did not accept the 'git push' command 
+git push origin <branch name>
+git push origin <branch name> -f  ///in case it did not accept the 'git push' command 
   ```
