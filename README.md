@@ -40,3 +40,12 @@ cd <projectName>
 * Open pull requests
 
 `To open the pull request, go to <username> fork on github and press “create pull request”. `
+
+# rollback to a commit
+
+'''sh
+git reset --hard <commit-id>
+git log
+git push <branch name>
+git push <branch name> -f  ///in case it did not accept the 'git push' command 
+  ```
