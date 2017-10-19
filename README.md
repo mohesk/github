@@ -43,7 +43,7 @@ cd <projectName>
 
 # rollback to a commit
 
-'''sh
+```sh
 git reset --hard <commit-id>
 git log
 git push <branch name>
