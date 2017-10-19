@@ -2,7 +2,7 @@
 github cheatsheet
 
 # setup a working environment, including a fork from a repository
-* This will create a new folder dedicated to the project7)Move to the project directory
+* This will create a new folder dedicated to the project and Move to the project directory
 ```sh
 git init <projectName>
 cd <projectName>
